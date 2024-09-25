@@ -1,0 +1,10 @@
+bullet_train_1.jpg,bullet_train,466
+car_wheel_1.jpg,car_wheel,479
+electric_locomotive_1.jpg,electric_locomotive,547
+guacamole_1.jpg,guacamole,924
+power_drill_1.jpg,power_drill,740
+red_wine_1.jpg,red_wine,966
+rifle_1.jpg,rifle,764
+samoyed_1.jpg,samoyed,258
+space_shuttle_1.jpg,space_shuttle,812
+wombat_1.jpg,wombat,106
